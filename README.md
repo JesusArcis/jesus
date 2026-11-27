@@ -7,7 +7,7 @@
 
 ## Descripción
 
-Portafolio web personal orientado a presentar mi perfil como desarrollador web, mis habilidades técnicas y mis proyectos. Cuenta con una interfaz de temática oscura, diseño adaptable y elementos interactivos desarrollados con tecnologías web nativas.
+Portafolio web personal orientado a presentar mi perfil como desarrollador web, mis habilidades técnicas y mis proyectos. Cuenta con una interfaz de temática oscura, diseño adaptable y elementos interactivos desarrollados con tecnologías web.
 
 El proyecto no requiere frameworks, gestor de paquetes, base de datos ni proceso de compilación.
 
@@ -46,8 +46,8 @@ jesus/
 
 ### Requisitos
 
-- Un navegador web moderno.
-- Git, si se desea clonar el repositorio.
+- Un navegador web antiguo.
+- Git, si para clonar el repositorio.
 
 ### Instalación
 
