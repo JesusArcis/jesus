@@ -1,4 +1,4 @@
-# Portafolio personal | Jesús A.
+# Portafolio personal | *Héctor M.*
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -7,19 +7,19 @@
 
 ## Descripción
 
-Portafolio web personal orientado a presentar mi perfil como desarrollador web, mis habilidades técnicas y mis proyectos. Cuenta con una interfaz de temática oscura, diseño adaptable y elementos interactivos desarrollados con tecnologías web nativas.
+Portafolio web **para examen** personal orientado a presentar mi perfil como desarrollador web, mis habilidades técnicas y mis proyectos. Cuenta con una interfaz de temática oscura, diseño adaptable y elementos interactivos desarrollados con tecnologías web nativas.
 
 El proyecto no requiere frameworks, gestor de paquetes, base de datos ni proceso de compilación.
 
-## Características
+## Características necesarias para aprobar
 
-- Diseño responsive para ordenadores, tabletas y dispositivos móviles.
-- Menú de navegación adaptable y desplazamiento suave entre secciones.
-- Presentación personal con texto rotatorio animado y fotografía de perfil.
-- Indicadores animados de habilidades técnicas.
-- Tarjetas de proyectos con etiquetas de tecnologías y espacios para enlaces.
-- Formulario de contacto con validación HTML y simulación de envío.
-- Botón para volver al inicio y actualización automática del año en el pie de página.
+1. Diseño responsive para ordenadores, tabletas y dispositivos móviles.
+2. Menú de navegación adaptable y desplazamiento suave entre secciones.
+3. Presentación personal con texto rotatorio animado y fotografía de perfil.
+4. Indicadores animados de habilidades técnicas.
+5. Tarjetas de proyectos con etiquetas de tecnologías y espacios para enlaces.
+6. Formulario de contacto con validación HTML y simulación de envío.
+7. Botón para volver al inicio y actualización automática del año en el pie de página.
 
 ## Tecnologías utilizadas
 
